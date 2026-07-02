@@ -25,5 +25,5 @@ csharp-learning-path/
 
 Este repo complementa el índice central:
 
-- [professional-learning-path](../professional-learning-path)
+- [professional-learning-path]([../professional-learning-path](https://github.com/davidValades/professional-learning-path))
 
